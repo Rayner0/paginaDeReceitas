@@ -5,7 +5,7 @@ Este é um projeto simples de uma página de receitas feito para demonstrar a po
 
 ## 📷 Imagem
 <p aligm="center">
-    <img alt="Página de receitas" src="images/Print da página.png" width="">
+    <img alt="Página de receitas" src="images/Print da página.png" width="50%">
 </p>
 
 ## 😊 Linkedin
